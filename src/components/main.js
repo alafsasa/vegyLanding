@@ -139,7 +139,7 @@ class MainInterface extends React.Component{
                                 <div className="col-sm-12">
                                     <div className="text-center" style={{fontFamily: 'Lobster Two', fontSize: '48px', paddingTop: '60px', color: '#023020'}}>
                                         <div style={{}}>
-                                            <img src={vegdubs} alt="AD1" width="300" />
+                                            <img src={vegdubs} alt="AD1" width="250" />
                                         </div>
                                     </div>
                                 </div>
